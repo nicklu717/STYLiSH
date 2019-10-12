@@ -1,0 +1,138 @@
+
+/* Class = "UITextField"; placeholder = "1"; ObjectID = "1oH-dq-mka"; */
+"1oH-dq-mka.placeholder" = "1";
+
+/* Class = "UILabel"; text = "M"; ObjectID = "2di-0R-wTO"; */
+"2di-0R-wTO.text" = "M";
+
+/* Class = "UINavigationItem"; title = "結帳結果"; ObjectID = "30c-A4-L4h"; */
+"30c-A4-L4h.title" = "結帳結果";
+
+/* Class = "UILabel"; text = "選擇顏色"; ObjectID = "4gy-l1-g5W"; */
+"4gy-l1-g5W.text" = "選擇顏色";
+
+/* Class = "UINavigationItem"; title = "購物車"; ObjectID = "5Xw-Eb-Pae"; */
+"5Xw-Eb-Pae.title" = "購物車";
+
+/* Class = "UILabel"; text = "選擇尺寸"; ObjectID = "5YT-Cd-UgN"; */
+"5YT-Cd-UgN.text" = "選擇尺寸";
+
+/* Class = "UILabel"; text = "Product Price"; ObjectID = "7cb-4z-xOB"; */
+"7cb-4z-xOB.text" = "價格";
+
+/* Class = "UINavigationItem"; title = "結帳"; ObjectID = "8XM-SC-0yG"; */
+"8XM-SC-0yG.title" = "結帳";
+
+/* Class = "UIButton"; normalTitle = "加入購物車"; ObjectID = "COx-wR-p0I"; */
+"COx-wR-p0I.normalTitle" = "加入購物車";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Crj-1f-pas"; */
+"Crj-1f-pas.text" = "品名";
+
+/* Class = "UIButton"; normalTitle = "前往結帳"; ObjectID = "E5x-9d-bhg"; */
+"E5x-9d-bhg.normalTitle" = "前往結帳";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "Eid-gU-1jn"; */
+"Eid-gU-1jn.text" = "價格";
+
+/* Class = "UILabel"; text = "ID"; ObjectID = "FsR-sY-lHF"; */
+"FsR-sY-lHF.text" = "ID";
+
+/* Class = "UILabel"; text = "Product Price"; ObjectID = "JDV-cu-hCh"; */
+"JDV-cu-hCh.text" = "價格";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "JWb-jv-F0j"; */
+"JWb-jv-F0j.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "配件"; ObjectID = "KAi-aq-1Gg"; */
+"KAi-aq-1Gg.normalTitle" = "配件";
+
+/* Class = "UIButton"; normalTitle = "確認"; ObjectID = "Kdb-ky-vbv"; */
+"Kdb-ky-vbv.normalTitle" = "確認";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Kww-oX-u9H"; */
+"Kww-oX-u9H.text" = "品名";
+
+/* Class = "UILabel"; text = "我們收到您的訂單了！將以最快的速度為您安排出貨。"; ObjectID = "LgR-8J-U0h"; */
+"LgR-8J-U0h.text" = "我們收到您的訂單了！將以最快的速度為您安排出貨。";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "Lzj-du-l1P"; */
+"Lzj-du-l1P.text" = "價格";
+
+/* Class = "UILabel"; text = "庫存："; ObjectID = "NK7-os-HCa"; */
+"NK7-os-HCa.text" = "庫存：";
+
+/* Class = "UILabel"; text = "品名"; ObjectID = "NTv-CS-SVT"; */
+"NTv-CS-SVT.text" = "品名";
+
+/* Class = "UILabel"; text = "HexString"; ObjectID = "OgG-bW-92F"; */
+"OgG-bW-92F.text" = "HexString";
+
+/* Class = "UIButton"; normalTitle = "再去逛逛"; ObjectID = "Qgh-pD-GDq"; */
+"Qgh-pD-GDq.normalTitle" = "再去逛逛";
+
+/* Class = "UINavigationItem"; title = "型錄"; ObjectID = "VfS-Fj-1f7"; */
+"VfS-Fj-1f7.title" = "型錄";
+
+/* Class = "UILabel"; text = "商品說明"; ObjectID = "WYn-Uc-oqc"; */
+"WYn-Uc-oqc.text" = "商品說明";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Wte-AK-ndy"; */
+"Wte-AK-ndy.text" = "品名";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZPq-ij-iGS"; */
+"ZPq-ij-iGS.text" = "標籤";
+
+/* Class = "UIButton"; normalTitle = "Facebook登入"; ObjectID = "ZXN-Qi-gXw"; */
+"ZXN-Qi-gXw.normalTitle" = "Facebook 登入";
+
+/* Class = "UILabel"; text = "請先登入會員"; ObjectID = "ZuF-r5-EYH"; */
+"ZuF-r5-EYH.text" = "請先登入會員";
+
+/* Class = "UILabel"; text = "結帳成功"; ObjectID = "aiw-jP-hRN"; */
+"aiw-jP-hRN.text" = "結帳成功";
+
+/* Class = "UILabel"; text = "Size"; ObjectID = "bBC-77-byF"; */
+"bBC-77-byF.text" = "尺寸";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "bf0-Jp-NCh"; */
+"bf0-Jp-NCh.text" = "價格";
+
+/* Class = "UILabel"; text = "Product Title"; ObjectID = "dEY-ra-sUe"; */
+"dEY-ra-sUe.text" = "品名";
+
+/* Class = "UILabel"; text = "顏色"; ObjectID = "f4k-gs-DFV"; */
+"f4k-gs-DFV.text" = "顏色";
+
+/* Class = "UILabel"; text = "商品說明"; ObjectID = "gBG-AV-fUN"; */
+"gBG-AV-fUN.text" = "商品說明";
+
+/* Class = "UIButton"; normalTitle = "男裝"; ObjectID = "gg1-Nv-jtI"; */
+"gg1-Nv-jtI.normalTitle" = "男裝";
+
+/* Class = "UIButton"; normalTitle = "加入購物車"; ObjectID = "ksP-F2-eUA"; */
+"ksP-F2-eUA.normalTitle" = "加入購物車";
+
+/* Class = "UIButton"; normalTitle = "移除"; ObjectID = "mry-ab-u8p"; */
+"mry-ab-u8p.normalTitle" = "移除";
+
+/* Class = "UIButton"; normalTitle = "女裝"; ObjectID = "plb-Mr-o0c"; */
+"plb-Mr-o0c.normalTitle" = "女裝";
+
+/* Class = "UILabel"; text = "選擇數量"; ObjectID = "rw0-Ud-P9O"; */
+"rw0-Ud-P9O.text" = "選擇數量";
+
+/* Class = "UILabel"; text = "品名"; ObjectID = "sFm-j8-7ls"; */
+"sFm-j8-7ls.text" = "品名";
+
+/* Class = "UILabel"; text = "Product Title"; ObjectID = "uQf-Bh-qcW"; */
+"uQf-Bh-qcW.text" = "品名";
+
+/* Class = "UILabel"; text = "Story"; ObjectID = "wEi-kX-mGh"; */
+"wEi-kX-mGh.text" = "商品說明";
+
+/* Class = "UILabel"; text = "登入會員後即可完成結帳。"; ObjectID = "xDP-In-wtD"; */
+"xDP-In-wtD.text" = "登入會員後即可完成結帳。";
+
+/* Class = "UILabel"; text = "尺寸"; ObjectID = "ysG-aN-Q3Y"; */
+"ysG-aN-Q3Y.text" = "尺寸";

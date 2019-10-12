@@ -1,0 +1,85 @@
+/* 
+  Localizable.strings
+  STYLiSH
+
+  Created by 陸瑋恩 on 2019/7/31.
+  Copyright © 2019 陸瑋恩. All rights reserved.
+*/
+
+"尺寸" = "Size";
+
+"庫存" = "Stock";
+
+"材質" = "Texture";
+
+"洗滌" = "Wash";
+
+"產地" = "Place";
+
+"備註" = "Note";
+
+"庫存：" = "Stock: %d";
+
+"Wait!" = "Wait!";
+
+"Please Pick a Color" = "Please Pick a Color";
+
+"Please Choose the Size" = "Please Choose the Size";
+
+"Success!" = "Success!";
+
+"Added to Cart" = "Added to Cart";
+
+"信用卡付款" = "Credit Card";
+
+"貨到付款" = "Cash";
+
+"總計" = "Total (%d Items)";
+
+"Fail" = "Fail!";
+
+"LoginFailure" = "LoginFailure";
+
+"Success" = "Success!";
+
+"LoginSuccess" = "LoginSuccess";
+
+"OrderedList" = "Ordered List";
+
+"UserInfo" = "User Information";
+
+"Payment" = "Payment";
+
+"AwaitingPayment" = "AwaitingPayment";
+
+"AwaitingShipment" = "AwaitingShipment";
+
+"Shipped" = "Shipped";
+
+"AwaitingReview" = "AwaitingReview";
+
+"Exchange" = "Exchange";
+
+"Starred" = "Starred";
+
+"Notification" = "Notification";
+
+"Refunded" = "Refunded";
+
+"Address" = "Address";
+
+"CustomerService" = "CustomerService";
+
+"SystemFeedback" = "SystemFeedback";
+
+"RegisterCellphone" = "RegisterCellphone";
+
+"Settings" = "Settings";
+
+"MyOrder" = "MyOrder";
+
+"MoreService" = "MoreService";
+
+"Profile" = "Profile";
+
+"ViewAll" = "ViewAll";
